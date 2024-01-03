@@ -1,0 +1,30 @@
+/* :root {
+    --sl-content-width: 50rem;
+    --sl-text-5xl: 3.5rem;
+} */
+
+.site-title > span {
+    font-size: 3rem;
+    color: var(--sl-color-white);
+}
+
+.header {
+    background-color: var(--sl-color-bg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
